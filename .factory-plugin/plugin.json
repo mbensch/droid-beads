@@ -1,0 +1,9 @@
+{
+  "name": "droid-beads",
+  "description": "Bootstrap any project from idea to autonomous multi-agent development using beads issue tracking",
+  "version": "1.0.0",
+  "author": { "name": "Marcel Bensch" },
+  "homepage": "https://github.com/mbensch/droid-beads",
+  "repository": "https://github.com/mbensch/droid-beads",
+  "license": "MIT"
+}
